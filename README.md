@@ -41,7 +41,8 @@ Design the database with tables for Customer, Account, and Transaction
 <img width="878" height="752" alt="image" src="https://github.com/user-attachments/assets/1433cfaf-5c18-4819-b045-996d294faa62" />
 
 ## Package Diagram
-<img width="976" height="806" alt="image" src="https://github.com/user-attachments/assets/9fd9dfb6-1c4e-4d6e-b37d-dc724db95297" />
+<img width="1237" height="900" alt="image" src="https://github.com/user-attachments/assets/6c2191d0-a62a-4fa8-b1f8-c6e68dc9960e" />
+
 ## RESULT
 
 Thus the Atm and banking System project was executed and the output was verified.
